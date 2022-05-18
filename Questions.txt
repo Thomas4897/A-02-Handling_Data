@@ -1,7 +1,11 @@
 Explain what the ".map" properties of arrays does.
+The .map() creates a new array containing the results of a function called on every element of the calling array.
 
 Explain what the ".reduce" properties of arrays does.
+.reduce() runs a user specified reducer callback function on each element of the array in order and returns a single value
 
 How is ".map" different from reduce?
+.map() creates a new array be manipulating every individual element in the array. While reduce takes all the elements in an array and reduces them in to a single value which is returned to the user instead of an array.
 
 What are "switch" statements?
+Switch statments evaluates the input by matching the input value to 'case clauses' and will execute the statement related to a true case.
